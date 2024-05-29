@@ -1,5 +1,5 @@
 const tg = window.Telegram.WebApp
-const app = () =>{
+/*const app = () =>{
     useEffect(()=>{
         tg.ready();
     }, [])
@@ -12,4 +12,4 @@ const app = () =>{
     <button onclick={OnClose}></button>
     </div>
 );}
-app()
+app()*/
