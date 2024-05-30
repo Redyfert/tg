@@ -12,6 +12,5 @@ const app = () =>{
     <button onclick={OnClose}></button>
     </div>
 );}
-app()
 const username = document.getElementById("name")
 username.textContent = tg.initDataUnsafe?.user?.username
