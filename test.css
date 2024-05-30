@@ -1,3 +1,8 @@
+@media only screen and (max-width: 600px){
+    body{
+        width: 600px
+    }
+}
 body{
     background-color: var(--tg-theme-bg-color);
     color: var(--tg-theme-text-color)
