@@ -4,5 +4,5 @@ body{
 }
 #pro{
     display: grid;
-    grid-template-columns: 200px;
+    grid-template-columns: 1fr, 1fr;
 }
