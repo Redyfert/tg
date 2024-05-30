@@ -14,4 +14,4 @@ const tg = window.Telegram.WebApp
 // );}
 let username = "Aleg Loh"
 let user = document.getElementById("name")
-user.textContent = tg?.username
+user.textContent = tg.first_name
