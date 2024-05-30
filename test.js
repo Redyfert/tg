@@ -13,4 +13,4 @@ const tg = window.Telegram.WebApp
 //     </div>
 // );}
 const username = document.getElementById("name")
-username.textContent = tg.initDataUnsafe?.user?.username
+username.textContent = tg?.username
