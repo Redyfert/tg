@@ -12,5 +12,5 @@ const tg = window.Telegram.WebApp
 //     <button onclick={OnClose}></button>
 //     </div>
 // );}
-const username = document.getElementById("name")
-username.textContent = tg?.username
+let user = document.getElementById("name")
+user.textContent = tg?.username
